@@ -3,11 +3,11 @@
   <title>清粥小菜再来点海带</title>
   
   
-  <link href="https://mjhxyz.github.io/mjhxyz.github.io/atom.xml" rel="self"/>
+  <link href="https://mjhxyz.github.io/atom.xml" rel="self"/>
   
-  <link href="https://mjhxyz.github.io/mjhxyz.github.io/"/>
+  <link href="https://mjhxyz.github.io/"/>
   <updated>2021-01-08T03:22:03.628Z</updated>
-  <id>https://mjhxyz.github.io/mjhxyz.github.io/</id>
+  <id>https://mjhxyz.github.io/</id>
   
   <author>
     <name>Yanzu Mao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>nginx开发环境配置https</title>
-    <link href="https://mjhxyz.github.io/mjhxyz.github.io/2021/01/08/nginx%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEhttps/"/>
-    <id>https://mjhxyz.github.io/mjhxyz.github.io/2021/01/08/nginx%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEhttps/</id>
+    <link href="https://mjhxyz.github.io/2021/01/08/nginx%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEhttps/"/>
+    <id>https://mjhxyz.github.io/2021/01/08/nginx%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEhttps/</id>
     <published>2021-01-08T02:16:14.000Z</published>
     <updated>2021-01-08T03:22:03.628Z</updated>
     
@@ -33,19 +33,19 @@
     
     
     
-    <category term="nginx" scheme="https://mjhxyz.github.io/mjhxyz.github.io/categories/nginx/"/>
+    <category term="nginx" scheme="https://mjhxyz.github.io/categories/nginx/"/>
     
     
-    <category term="nginx" scheme="https://mjhxyz.github.io/mjhxyz.github.io/tags/nginx/"/>
+    <category term="nginx" scheme="https://mjhxyz.github.io/tags/nginx/"/>
     
-    <category term="https" scheme="https://mjhxyz.github.io/mjhxyz.github.io/tags/https/"/>
+    <category term="https" scheme="https://mjhxyz.github.io/tags/https/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mjhxyz.github.io/mjhxyz.github.io/2021/01/07/hello-world/"/>
-    <id>https://mjhxyz.github.io/mjhxyz.github.io/2021/01/07/hello-world/</id>
+    <link href="https://mjhxyz.github.io/2021/01/07/hello-world/"/>
+    <id>https://mjhxyz.github.io/2021/01/07/hello-world/</id>
     <published>2021-01-07T06:23:16.027Z</published>
     <updated>2021-01-07T06:23:16.027Z</updated>
     
